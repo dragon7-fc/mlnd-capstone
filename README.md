@@ -8,22 +8,25 @@ Welcome to My capstone project. In this project, I will create a real time objec
 
 | Normal  | Zoom in 3x |
 |---|---|
-|![](./images/SSD_hand.PNG =200x)|![](./images/SSD_hand_zoom.PNG =200x)|
+| <img src=./images/SSD_hand.PNG width=200 /> | <img src=./images/SSD_hand_zoom.PNG width=200 /> |
 
 
 - __SSD detect COCO__
 
 | Normal  | Zoom in 3x |
 |---|---|
-|![](./images/SSD_COCO.PNG =200x)|![](./images/SSD_COCO_zoom.PNG =200x)|
+| <img src=./images/SSD_COCO.PNG width=200 /> | <img src=./images/SSD_COCO_zoom.PNG width=200 /> |
+
 
 - __YOLOv2 detect COCO__
 
-|![](./images/YOLOv2_COCO.PNG =200x)|
+<img src=./images/YOLOv2_COCO.PNG width=200 />
+
 
 - __Tiny YOLOv2 detect COCO__
 
-|![](./images/TinyYOLOv2_COCO.PNG =200x)|
+<img src=./images/TinyYOLOv2_COCO.PNG width=200 />
+
 
 ## Project Instructions
 
