@@ -5,26 +5,25 @@
 Welcome to My capstone project. In this project, I will create a real time object detection magnifier, please follow below instruction to setup and run the environment. After running the whole process, you will get the classifier to detect hand and COCO objects. After import these classifiers in iOS App, below are some screenshots captured from final iOS App.
 
 - __SSD detect hand__
-<p>
-<img src="./images/SSD_hand.PNG" alt="SSD detect hand" width="200px"/>
-<img src="./images/SSD_hand_zoom.PNG" alt="SSD detect hand - zoom in" width="200px"/>
-</p>
+
+| Normal  | Zoom in 3x |
+|---|---|
+|![](./images/SSD_hand.PNG =200x)|![](./images/SSD_hand_zoom.PNG =200x)|
+
 
 - __SSD detect COCO__
-<p>
-<img src="./images/SSD_COCO.PNG" alt="SSD detect COCO" width="200px"/>
-<img src="./images/SSD_COCO_zoom.PNG" alt="SSD detect COCO - zoom in" width="200px"/>
-</p>
+
+| Normal  | Zoom in 3x |
+|---|---|
+|![](./images/SSD_COCO.PNG =200x)|![](./images/SSD_COCO_zoom.PNG =200x)|
 
 - __YOLOv2 detect COCO__
-<p>
-<img src="./images/YOLOv2_COCO.PNG" alt="YOLOv2 detect COCO" width="200px"/>
-</p>
+
+|![](./images/YOLOv2_COCO.PNG =200x)|
 
 - __Tiny YOLOv2 detect COCO__
-<p>
-<img src="./images/TinyYOLOv2_COCO.PNG" alt="TinyYOLOv2 detect COCO" width="200px"/>
-</p>
+
+|![](./images/TinyYOLOv2_COCO.PNG =200x)|
 
 ## Project Instructions
 
