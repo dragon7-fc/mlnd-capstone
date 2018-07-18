@@ -1,4 +1,4 @@
-# A real-time object detection magnifier iOS App
+# A Real-time Object Detection Magnifier iOS App
 
 ## Project Overview
 
